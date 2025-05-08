@@ -14,11 +14,12 @@ To simplify complex economic data into an **interactive Excel dashboard** that r
 
 - 🥦 **Food & beverages played the biggest role in shaping CPI trends**, consistently contributing more than any other category. Their weight in the index makes them the primary driver of inflationary movements in India.
 
-  ![Food & Beverages Contribution](images/cpi_%_contribution-piechart.png)
+  ![Food & Beverages Contribution](images/cpi_contribution-piechart.png)
 
 - 📈 **Inflation peaked in 2022**, largely driven by global supply shocks and rising fuel prices.
 
-  ![Inflation Trend](images/y-o-y trend.png)
+  ![Inflation Trend](images/yoy_trend.png)
+  
 - 🍚 **Food inflation** remained volatile, especially during and after the pandemic.
 - 🛢️ **Fuel & light** showed the sharpest price hikes post-2020, contributing heavily to overall CPI growth.
 - 📊 **Core CPI (excluding food & fuel)** remained more stable, helping differentiate temporary vs. persistent inflation.
